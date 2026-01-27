@@ -1,4 +1,4 @@
-# A Small Example of a Private Module
+# A Small Example of a Private Method
 
 class student:
     __name = "anonymous"  # private attribute
